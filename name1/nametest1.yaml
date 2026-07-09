@@ -1,7 +1,10 @@
-Name:Raju
-Age:26
-Address:
-   D.no:143
-   street:lucent
-   City:PKD
-   
+Employee1:
+  name: raju
+  age: 26
+  city: HYD
+
+Employee2:
+  name: surya
+  age: 27
+  city: nandyal
+  
